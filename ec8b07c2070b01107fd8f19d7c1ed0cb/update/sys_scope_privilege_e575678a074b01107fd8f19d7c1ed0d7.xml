@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="NeedIt Virtual Agent Conversations">ec8b07c2070b01107fd8f19d7c1ed0cb</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 20:41:48</sys_created_on>
+        <sys_id>e575678a074b01107fd8f19d7c1ed0d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FieldWrapper.getDisplayValue</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_789440_needit_vi">ec8b07c2070b01107fd8f19d7c1ed0cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">ec8b07c2070b01107fd8f19d7c1ed0cb</sys_scope>
+        <sys_update_name>sys_scope_privilege_e575678a074b01107fd8f19d7c1ed0d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 20:41:48</sys_updated_on>
+        <target_name>FieldWrapper.getDisplayValue</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
